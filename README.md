@@ -1,8 +1,9 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Bem Vindo ao Meu Perfil
 <div align="center">
   <a href="https://github.com/maykon-jds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maykon-jds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&text_color=8257e5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykon-jds&layout=compact&langs_count=7&theme=dracula&title_color=04d361&icon_color=04d361&bg_color=121214&text_color=8257e5"/>
+  <!--
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykon-jds&layout=compact&langs_count=7&theme=dracula&title_color=04d361&icon_color=04d361&bg_color=121214&text_color=8257e5"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,3 +29,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+-->
