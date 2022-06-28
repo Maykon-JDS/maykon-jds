@@ -1,9 +1,9 @@
 ## Bem Vindo ao Meu Perfil
 <div align="center">
   <a href="https://github.com/maykon-jds">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=maykon-jds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&locale=pt-br&text_color=8257e5"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maykon-jds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&locale=pt-br&text_color=8257e5"/>
   
-   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykon-jds&layout=compact&langs_count=7&theme=onedark&title_color=04d361&bg_color=121214&text_color=8257e5&locale=pt-br"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykon-jds&layout=compact&langs_count=7&theme=onedark&title_color=04d361&bg_color=121214&text_color=8257e5&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="jds-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
