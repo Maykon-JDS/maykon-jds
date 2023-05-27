@@ -6,9 +6,7 @@
 <div align="center"> 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maykon-jds&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maykon-jds&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
 
 
 </div>
