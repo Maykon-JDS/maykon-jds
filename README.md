@@ -1,6 +1,6 @@
 
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maykon+Dias;I'm+21+years+old;I'm+from+Brazil;I+have+a+degree+in+Computer+Science;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maykon+Dias;I'm+22+years+old;I'm+from+Brazil;I+have+a+degree+in+Computer+Science;Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
 
