@@ -36,3 +36,15 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=maykon-jds&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
+
+---
+
+<h3 align="center">CONNECT WITH ME</h3>
+<p align="center">
+<a href="https://linkedin.com/in/maykon-dias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maykon-dias" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/u/maykon-dias/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/maykon-dias/" height="30" width="40" /></a> -->
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=maykon-jds)
