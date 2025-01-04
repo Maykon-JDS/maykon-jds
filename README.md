@@ -17,6 +17,9 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maykon-jds&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true) 
 
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maykon-jds&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maykon-jds&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
  | <img height="250px"  src="https://github-readme-stats.vercel.app/api?username=Maykon-jds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&locale=pt-br&text_color=8257e5"/> | <img height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykon-JDS&layout=compact&langs_count=8&theme=onedark&title_color=04d361&bg_color=121214&text_color=8257e5&locale=pt-br"/> | 
  | ----------- | ----------- |
 
@@ -45,8 +48,7 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 
 ---
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maykon-jds&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maykon-jds&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+
 
 ---
  
