@@ -1,10 +1,4 @@
-![](https://komarev.com/ghpvc/?username=maykon-jds&style=for-the-badge)
-
-
----
-
 # Welcome to my GitHub!
-I am a back-end developer focused on creating simple and scalable solutions, with an emphasis on API development – feel free to explore my projects!
 
 ## About Me
 I am a Junior developer specializing in back-end, with a focus on API development using Java, PHP, and Node. I adopt best practices such as GoF design patterns and TDD (Test-Driven Development) to ensure efficient and scalable solutions. Additionally, I am an enthusiast of using Docker and Cloud solutions to optimize development and automation. I am constantly seeking learning opportunities and challenges to enhance my skills and grow professionally.
@@ -34,23 +28,6 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 
 ---
 
-
-
----
-
-
-
----
- 
-
-
-
-
----
-  
-
-
----
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
@@ -102,3 +79,4 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 
 ---
 
+![](https://komarev.com/ghpvc/?username=maykon-jds&style=for-the-badge)
