@@ -1,15 +1,26 @@
+![](https://komarev.com/ghpvc/?username=maykon-jds&style=for-the-badge)
+
+---
+
 # Welcome to my GitHub!
 I am a back-end developer focused on creating simple and scalable solutions, with an emphasis on API development – feel free to explore my projects!
 
-# About Me
+## About Me
 I am a Junior developer specializing in back-end, with a focus on API development using Java, PHP, and Node. I adopt best practices such as GoF design patterns and TDD (Test-Driven Development) to ensure efficient and scalable solutions. Additionally, I am an enthusiast of using Docker and Cloud solutions to optimize development and automation. I am constantly seeking learning opportunities and challenges to enhance my skills and grow professionally.
 
-# Technologies
-# Coding Challenges
-# GitHub Stats
-# Programming Hobbies
-# Contacts
+## Technologies
+## Coding Challenges
 
+## GitHub Stats
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ | <img height="250px"  src="https://github-readme-stats.vercel.app/api?username=Maykon-jds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&locale=pt-br&text_color=8257e5"/> | <img height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykon-JDS&layout=compact&langs_count=8&theme=onedark&title_color=04d361&bg_color=121214&text_color=8257e5&locale=pt-br"/> | 
+ | ----------- | ----------- |
+
+
+## Programming Hobbies
+## Contacts
+<a href="https://linkedin.com/in/maykon-dias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maykon-dias" height="30" width="40" /></a>
 
 
    
@@ -17,12 +28,11 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 
 ---
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ---
 
- | <img height="250px"  src="https://github-readme-stats.vercel.app/api?username=Maykon-jds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&locale=pt-br&text_color=8257e5"/> | <img height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykon-JDS&layout=compact&langs_count=8&theme=onedark&title_color=04d361&bg_color=121214&text_color=8257e5&locale=pt-br"/> | 
- | ----------- | ----------- |
+
 
 ---
  
@@ -80,9 +90,8 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 ---
 
 
-<a href="https://linkedin.com/in/maykon-dias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maykon-dias" height="30" width="40" /></a>
+
 <!-- <a href="https://leetcode.com/u/maykon-dias/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/maykon-dias/" height="30" width="40" /></a> -->
 
 ---
 
-![](https://komarev.com/ghpvc/?username=maykon-jds)
