@@ -72,7 +72,7 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 
 ---
 
-<a  height="250px" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/645ad212f3d9ecfa51d927fd?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/wide/645ad212f3d9ecfa51d927fd?variant=dark&roadmaps=backend%2Caws%2Cdatastructures-and-algorithms%2Csoftware-design-architecture)](https://roadmap.sh)
 
 
 <!-- <a href="https://leetcode.com/u/maykon-dias/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/maykon-dias/" height="30" width="40" /></a> -->
