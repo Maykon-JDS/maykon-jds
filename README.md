@@ -1,3 +1,9 @@
+# Welcome to my GitHub!
+# About Me
+# Technologies
+# GitHub Stats
+# Programming Hobbies
+# Contacts
 
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maykon+Dias;I'm+22+years+old;I'm+from+Brazil;I+have+a+degree+in+Computer+Science;Welcome!+:%29)](https://git.io/typing-svg)
@@ -33,9 +39,36 @@
 
 ---
 
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=maykon-jds&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+#### 👩‍💻 Languages 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+
+#### ⚙️ Frameworks / Libraries:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+![JavaFX](https://img.shields.io/badge/JavaFX-FF1133?style=for-the-badge)&nbsp;
+
+#### ⚙️ Tools:
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)&nbsp;
+
+
+#### 📈 Databases:
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+#### 👩‍💻 IDE:
+![IntelliJ Idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp;
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 ---
 
