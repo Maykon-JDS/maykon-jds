@@ -1,9 +1,12 @@
 # Welcome to my GitHub!
 # About Me
 # Technologies
+# Coding Challenges
 # GitHub Stats
 # Programming Hobbies
 # Contacts
+
+
 
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maykon+Dias;I'm+22+years+old;I'm+from+Brazil;I+have+a+degree+in+Computer+Science;Welcome!+:%29)](https://git.io/typing-svg)
@@ -72,11 +75,9 @@
 
 ---
 
-<h3 align="center">CONNECT WITH ME</h3>
-<p align="center">
+
 <a href="https://linkedin.com/in/maykon-dias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maykon-dias" height="30" width="40" /></a>
 <!-- <a href="https://leetcode.com/u/maykon-dias/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/maykon-dias/" height="30" width="40" /></a> -->
-</p>
 
 ---
 
