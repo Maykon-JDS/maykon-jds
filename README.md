@@ -6,6 +6,8 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 ## Technologies
 ## Coding Challenges
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Maykon-JDS?theme=dark&font=Cambay&ext=contest)
+
 ## GitHub Stats
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -73,9 +75,8 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 ---
 
 [![roadmap.sh](https://roadmap.sh/card/wide/645ad212f3d9ecfa51d927fd?variant=dark&roadmaps=backend%2Caws%2Cdatastructures-and-algorithms%2Csoftware-design-architecture)](https://roadmap.sh)
+-->
 
-
-<a href="https://leetcode.com/u/maykon-dias/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/maykon-dias/" height="30" width="40" /></a> -->
 
 ---
 
