@@ -54,10 +54,8 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 <!-- ![IntelliJ Idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp; -->
 
 
----
 
-[![roadmap.sh](https://roadmap.sh/card/wide/645ad212f3d9ecfa51d927fd?variant=dark&roadmaps=backend%2Caws%2Cdatastructures-and-algorithms%2Csoftware-design-architecture)](https://roadmap.sh)
-<!-- -->
+
 
 ## Coding Challenges
 
