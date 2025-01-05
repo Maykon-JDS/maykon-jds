@@ -6,10 +6,14 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 ## Technologies
 ## Coding Challenges
 
+![Codewars](https://github.r2v.ch/codewars?user=Maykon-JDS)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Maykon-JDS?theme=dark&font=Cambay&ext=contest)
+
 
 ## GitHub Stats
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maykon-jds&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true) 
 
