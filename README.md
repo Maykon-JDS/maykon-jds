@@ -74,25 +74,24 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
  | <img height="250px"  src="https://github-readme-stats.vercel.app/api?username=Maykon-jds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&locale=pt-br&text_color=8257e5"/> | <img height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykon-JDS&layout=compact&langs_count=8&theme=onedark&title_color=04d361&bg_color=121214&text_color=8257e5&locale=pt-br"/> | 
  | ----------- | ----------- |
 
-
-## Programming Hobbies
 ## Contacts
 <a href="https://linkedin.com/in/maykon-dias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maykon-dias" height="30" width="40" /></a>
 
 
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maykon+Dias;I'm+22+years+old;I'm+from+Brazil;I+have+a+degree+in+Computer+Science;Welcome!+:%29)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maykon+Dias;I'm+22+years+old;I'm+from+Brazil;I+have+a+degree+in+Computer+Science;Welcome!+:%29)](https://git.io/typing-svg) 
 
 ---
 
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=vscode,php,java,javascript,typescript,nodejs,express,nest,jest,react,next,cpp,python,docker,aws,linux,windows,apple,postman,vercel,vite,bootstrap,mongodb,mysql,tailwind,materialui,sass,css,html,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,php,java,javascript,typescript,nodejs,express,nest,jest,react,next,cpp,python,docker,aws,linux,windows,apple,postman,vercel,vite,bootstrap,mongodb,mysql,tailwind,materialui,sass,css,git,github" />
 </a>
   <br />
 
   </div>
+-->
 
 ---
 
