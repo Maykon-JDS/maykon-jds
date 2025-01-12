@@ -66,6 +66,9 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 | ![LeetCode Stats](https://leetcard.jacoblin.cool/Maykon-JDS?theme=dark&font=Cambay) | ![Codewars](https://github.r2v.ch/codewars?user=Maykon-JDS) |
 | ----------- | ----------- |
 
+|||
+| ----------- | ----------- |
+
 ## GitHub Stats
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
