@@ -20,11 +20,11 @@ I am a Junior developer specializing in back-end, with a focus on API developmen
 
 #### ⚙️ Frameworks / Libraries:
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <!--
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF1133?style=for-the-badge)&nbsp;
 -->
 
